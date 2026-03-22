@@ -1,5 +1,3 @@
-
-[README(1).md](https://github.com/user-attachments/files/26169218/README.1.md)
 # Hey, I'm Jessica ✈️➡️☁️
 
 **Airline Captain → Cloud Architect (in progress)**
