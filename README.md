@@ -2,7 +2,7 @@
 
 **Airline Captain → Cloud Architect (in progress)**
 
-I spent 11 years in aviation — flying jets, managing risk in real time, and making high-stakes decisions at 45,000 feet. Now I'm channeling that same discipline into cloud architecture and building things that live in a different kind of sky.
+I spent 11 years in aviation — flying jets, managing risk in real time, and making high-stakes decisions at 45,000 feet. Now I'm channeling that same discipline into cloud architecture and building things.
 
 Currently pursuing a **BS in Computer Science at Western Governors University** and studying for the **AWS Solutions Architect Associate (SAA-C03)** certification.
 
