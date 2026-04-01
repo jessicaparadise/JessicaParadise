@@ -8,7 +8,7 @@ Currently pursuing a **BS in Computer Science at Western Governors University** 
 
 ## What I'm Building
 
-😸**Custom PCB + AI-powered** — a device that listens to my cat Earl Gray's meows and interprets what he's saying, INMP441 MEMS mic, ESP32, AWS SageMaker, SSD1306 OLED display
+😸**Custom PCB + AI-powered** — a device that listens to my cat Earl Gray's meows and interprets what he's saying, INMP441 MEMS mic, ESP32, AWS SageMaker, SSD1306 OLED display  
 🔧 **IoT + AWS Cloud** — Real-time sensor systems with ESP32 microcontrollers, AWS IoT Core, Lambda, DynamoDB, and SNS alerting  
 📰 **Serverless APIs** — News sentiment analysis pipeline using Lambda, API Gateway, and DynamoDB  
 🐾 **Full-Stack Apps** — Pet health management platform with React, Node.js, Express, and SQLite  
