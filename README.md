@@ -28,7 +28,7 @@ Currently:    Terraform & CloudFormation (next up)
 
 ## The Backstory
 
-Aviation taught me systems thinking — every flight is a distributed system with redundancy, monitoring, and failure modes. Cloud architecture is the same game with different hardware. I'm not pivoting *away* from aviation — I'm expanding the altitude.
+Aviation taught me systems thinking — every flight is a distributed system with redundancy, monitoring, and failure modes. Cloud architecture is the same game with different hardware. I'm not pivoting *away* from aviation — I'm scaling horizontally😁.
 
 ## Let's Connect
 
