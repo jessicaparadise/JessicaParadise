@@ -34,7 +34,8 @@ Aviation taught me systems thinking — every flight is a distributed system wit
 
 📍 Seattle, WA (relocating to Los Angeles)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jessicaparadise)  
-🐱 Earl Gray (my cat) approves all pull requests
+🐱 Earl Gray (my cat) approves all pull requests  
+![Earl(1)](https://github.com/user-attachments/assets/69070fcb-8ac9-4298-bd40-40db91b610ef)
 
 ---
 
