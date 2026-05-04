@@ -4,7 +4,8 @@
 
 I spent 11 years in aviation — flying jets, managing risk in real time, and making high-stakes decisions at 45,000 feet. Now I'm channeling that same discipline into cloud architecture and building things.
 
- **AWS Solutions Architect Associate (SAA-C03) certified**
+ **AWS Solutions Architect Associate SAA-C03 certified**
+ **currently working on AWS Certified Developer Associate DVA-C02**
 
 ## What I'm Building
 
