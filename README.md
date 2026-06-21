@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jess Paradise
+# Jessica Paradise
 
 ### ✈️ Airline Captain → ☁️ Cloud & DevOps Engineer
 
