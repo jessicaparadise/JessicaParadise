@@ -6,8 +6,6 @@
 
 **From flight levels to availability zones.**
 
-11+ years and an ATP certificate in the cockpit — Captain on the 757/767 and Phenom 300, plus the Praetor/Legacy, Dash 8, and more — now building the kind of resilient, real-time systems I used to trust at altitude. AWS-certified, aerospace-minded, Austin-bound 🤠
-
 </div>
 
 #### ☁️ Cloud & Infrastructure
