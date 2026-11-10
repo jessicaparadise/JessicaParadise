@@ -27,28 +27,21 @@
 
 #### 🎓 Certifications
 ![AWS SAA](https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS DVA](https://img.shields.io/badge/AWS-Developer_Associate_(in_progress)-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS DVA](https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![ITIL 4](https://img.shields.io/badge/ITIL_4-Foundation-5C2D91?style=flat-square)
 
-*SAA-C03 certified · DVA-C02 scheduled July 31, 2026*
+*SAA-C03 · DVA-C02 · ITIL 4 Foundation · B.S. Computer Science @ WGU (Aug 2027)*
 
 ---
 
-## 🛠️ What I'm Building
 
-🛫 **Real-Time Flight Telemetry Platform** `in progress` — Streams live aircraft ADS-B telemetry through **Kinesis** and **Apache Flink** for windowed anomaly detection, with hot/cold storage tiering and a live dashboard. Engineered for multi-region failover and chaos-tested with **AWS Fault Injection Service**. *Built on 11 years in the cockpit — telemetry and redundancy aren't abstract to me.*
-
-📡 **Production IoT Telemetry Pipeline** `live` — Event-driven **ESP32 → AWS IoT Core → Lambda → DynamoDB** with SNS alerting, provisioned end-to-end on **Terraform** with **GitHub Actions** CI/CD.
-
-🔧 **Edge-to-Cloud Hardware** `in progress` — Custom PCB (**KiCad**) with an INMP441 MEMS mic and ESP32 running on-device audio classification, telemetry to AWS. Full ownership from silicon to cloud — yes, it listens to my cat.
-
-☁️ **Cloud Resume** `live` — Static site on **S3 + CloudFront + Route 53**, automated deploys via **GitHub Actions**.
 
 ## ⚙️ Tech & Tools
 
 ```
-Cloud:         AWS — Lambda · DynamoDB · API Gateway · IoT Core · S3 · CloudFront · SNS · IAM
+Cloud:         AWS — Lambda · DynamoDB · API Gateway · IoT Core · S3 · CloudFront · SNS · IAM · CloudWatch
+AI:            Amazon Bedrock (Claude)
 IaC & CI/CD:   Terraform · CloudFormation · GitHub Actions · Docker
-Streaming:     Kinesis · Apache Flink        (flagship — in progress)
 Languages:     Python · Java · JavaScript · C++
 Edge:          ESP32 · INMP441 · KiCad · Arduino
 Observability: CloudWatch · Grafana
@@ -57,11 +50,12 @@ Full-stack:    React · Node.js · Express      (when a project needs it)
 
 ## 🧭 The Backstory
 
-Aviation taught me systems thinking — every flight is a distributed system with redundancy, monitoring, and failure modes. Cloud architecture is the same game with different hardware. I'm not pivoting *away* from aviation — I'm scaling horizontally 😁
+Nine years flying jets taught me systems thinking — every flight is a distributed system with redundancy, monitoring, and failure modes. Cloud architecture is the same game with different hardware.
 
 ## 📡 Let's Connect
 
-📍 Los Angeles, CA → Austin, TX bound (Sept 2026)  
+📍 Austin, TX  
+💼 Open to cloud support & junior cloud engineer roles in Austin  
 🔗 [LinkedIn](https://www.linkedin.com/in/jessica-paradise)  
 🌐 [jessicaparadise.com](https://jessicaparadise.com) — my cloud resume, live on AWS  
 
